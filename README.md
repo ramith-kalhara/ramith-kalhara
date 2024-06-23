@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramith Kalhara</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramith-kalhara" alt="ramith-kalhara" /></a> </p>
 
-- 🔭 I’m currently studying on [SLIIT](https://www.sliit.lk/)
+- 🔭 I’m currently studying in [SLIIT](https://www.sliit.lk/)
 
 - 🌱 I’m currently learning **Java, android development and PHP**
 
