@@ -4,9 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramith-kalhara" alt="ramith-kalhara" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next.js, Angular**
-
-- 👯 I’m looking to collaborate on [www.solifex.lk](https://solifex.lk/)
+- 🌱 I’m currently learning **Next.js, Angular **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramith-kalhara](https://github.com/ramith-kalhara)
 
