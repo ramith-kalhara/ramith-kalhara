@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramith-kalhara](https://github.com/ramith-kalhara)
 
-- 📝 👯 This is my portfolio [http://ramith.mypressonline.com/](http://ramith.mypressonline.com/)
+- 📝 👯 This is my portfolio [https://ramith-kalhara.github.io/P.D.R.Kalhara/](https://ramith-kalhara.github.io/P.D.R.Kalhara/)
 
 - 💬 Ask me about **MERN , Java, Kotlin**
 
